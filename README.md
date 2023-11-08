@@ -42,19 +42,19 @@ Step 5. Find the video you want and play it now click the Loop Video bookmark an
 
 Home:
 
-<img src="https://github.com/Mollomm1/LiteTube/blob/master/assets/screenshots/1.png?raw=true" alt="1" width="200"/>
+<img src="https://github.com/Brandon421-ops/LiteTube/blob/master/assets/screenshots/1.png?raw=true" alt="1" width="200"/>
 
 Search:
 
-<img src="https://github.com/Mollomm1/LiteTube/blob/master/assets/screenshots/2.png?raw=true" alt="2" width="200"/>
+<img src="https://github.com/Brandon421-ops/LiteTube/blob/master/assets/screenshots/2.png?raw=true" alt="2" width="200"/>
 
 Watch:
 
-<img src="https://github.com/Mollomm1/LiteTube/blob/master/assets/screenshots/3.png?raw=true" alt="3" width="200"/>
+<img src="https://github.com/Brandon421-ops/LiteTube/blob/master/assets/screenshots/3.png?raw=true" alt="3" width="200"/>
 
 Channel:
 
-<img src="https://github.com/Mollomm1/LiteTube/blob/master/assets/screenshots/4.png?raw=true" alt="4" width="200"/>
+<img src="https://github.com/Brandon421-ops/LiteTube/blob/master/assets/screenshots/4.png?raw=true" alt="4" width="200"/>
 
 # Deployment
 
